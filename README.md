@@ -211,27 +211,15 @@ Estrutura criada
 
 Página 1 - Overview
 
-* Fluxo Médio Cluster
-* Fluxo Médio não cluster
-* Participação (%)
-* Crescimento YoY
-* Evolução Interanual
-
-
+![Visão Geral](outputs/prints/dashboard_1.png)
 
 Página 2 - Comparação Estrutural
 
-* Colunas agrupadas
-* diferença de médias
-* desvio padrão
-
-
+![Cluster](outputs/prints/dashboard_2.png)
 
 Página 3 - Dinâmica Temporal
 
-* Evolução Mensal
-* Variação percentual
-* Heatmap por ano e mês
+![Analise Interanual](outputs/prints/dashboard_3.png)
 
 
 
